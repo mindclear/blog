@@ -1,0 +1,2 @@
+# blog
+record good time
