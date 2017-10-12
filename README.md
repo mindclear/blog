@@ -1,2 +1,2 @@
 # blog
-record good time
+have a good time!
